@@ -4,7 +4,5 @@ phases:
   build:
     commands:
       - echo iguana build starts...
-artifacts:
-  files:
-    - "**/*"
+
   
